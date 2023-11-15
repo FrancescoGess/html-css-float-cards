@@ -29,7 +29,7 @@ div>p{
 
 p{
     font-family: cursive;
-    
+
 }
 
 img{
@@ -70,4 +70,8 @@ a{
     color: #00A6F5;
     text-decoration: none;
     font-family:'Times New Roman', Times, serif;
+}
+
+div>p {
+    line-height: 35px;
 }
