@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    color: #E53170;
+    font-family: cursive;
+    text-transform: capitalize;
+}
