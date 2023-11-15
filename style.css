@@ -23,8 +23,13 @@ h1 {
     font-family: cursive;
 }
 
+div>p{
+    font-weight: bold;
+}
+
 p{
     font-family: cursive;
+    
 }
 
 img{
@@ -36,11 +41,18 @@ img{
 .column{
     float: left;
     width: 30%;
-    border: 1px solid red;
+    background-color:#0F0E17;
+    margin: auto;
 }
 
-.row {
+.first-row {
     display: flex;
+    color: white;
+}
+
+.second-row {
+    display: flex;
+    color: white;
 }
 
 #clearfix::after{
@@ -51,5 +63,11 @@ img{
 
 
 div{
-    margin-top: 30px;
+    margin-top: 60px;
+}
+
+a{
+    color: #00A6F5;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
 }
