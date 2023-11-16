@@ -25,6 +25,7 @@ h1 {
 
 div>p{
     font-weight: bold;
+    line-height: 35px;
 }
 
 p{
@@ -34,8 +35,8 @@ p{
 
 img{
     width: 100px;
-    height: 100px;
-    float: left;
+    height: 110px;
+    float: left; margin-right: 10px;
 }
 
 .column{
@@ -70,8 +71,4 @@ a{
     color: #00A6F5;
     text-decoration: none;
     font-family:'Times New Roman', Times, serif;
-}
-
-div>p {
-    line-height: 35px;
 }
